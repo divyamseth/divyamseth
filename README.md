@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyamseth
-- 👀 I’m interested in Competitive programming !
+- 👀 I’m interested in Competitive programmer !
 - 🌱 I’m currently learning Java
 - 
 <!---
